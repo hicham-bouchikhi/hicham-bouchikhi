@@ -1,6 +1,6 @@
 ### Hi, I'm Hicham 👋
 
-Senior .NET / C# engineer and technical lead based in **Lyon, France** — 10+ years building enterprise platforms.
+Senior .NET / C# engineer  in **Lyon, France** — 10+ years building enterprise platforms.
 
 **At work:** backend services and shared libraries for SaaS platforms — OAuth2 / OIDC (Duende IdentityServer, BFF),
 Azure, SQL Server performance, data migration & ETL, CI/CD on Azure DevOps, observability with OpenTelemetry.
